@@ -1,0 +1,2 @@
+KRO-is a applcation built for KRO company which allows company to control project buddget and tracking project process.It also functions as admin assistant,it can book appointment for meeting,reserve parkinglot and even doing assessment among each other.
+TQR-is internal application for Top Quality Recruitment company. It allow administrator to add permission to users to allow them check delete or add new contact.

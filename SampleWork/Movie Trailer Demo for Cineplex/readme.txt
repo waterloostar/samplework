@@ -1,0 +1,1 @@
+This is the movie trailer I built this demo for Cineplex when I was in second year in university. It allowes user to search movie trailer by typing the movie title.
